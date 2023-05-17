@@ -7,3 +7,8 @@ Trabalhou no Financeiro mantendo controle das contas e das transações bancári
 Ela é uma pessoa focada, calma e esforçada. Gosta de trabalha em equipe.
 Está cursando Arquitetura de Dados na UNOPAR e faz cursos complementares de Inglês e curso em Analista de Dados na JP Moreira com foco em SQL, Power BI e Python.
 
+**Links**
+* [Linkedin]()
+
+**Projetos:**
+* Fundamentos de um Analista de Dados: 
