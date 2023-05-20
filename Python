@@ -1,11 +1,18 @@
-Vamos compreender melhor quais são os pilares da 
-Programação Orientada a Objetos e suas definições com breves exemplos.
-Segundo Dathan e Ramnath (2015), os pilares da POO são:
-•  Abstração.
-•  Encapsulamento.
-•  Herança.
-•  Polimorfismo.
-A abstração é o ponto central da POO. Imagine que devemos 
-escrever programas que representem objetos da vida real e, 
-nesse tipo de programação, representamos 
-objetos da vida real dentro de um algoritmo.
+# TABUADA
+
+numero1=1
+numero2=1
+resultado=0
+print("   Tabuada ")
+while numero1<=10:
+    print("\n")
+    for resultado in range(10):
+          resultado = numero1 * numero2
+          print(f" {numero1} * {numero2} = {resultado}")
+          numero2 = numero2 + 1
+
+    numero1 = numero1 + 1
+    numero2 = 1
+    continue
+else:
+    print("fim")
