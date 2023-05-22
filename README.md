@@ -1,6 +1,6 @@
 # Analista de Dados Financeiro Jn 
 <sub> Fundamentos Analytics | Excel | Google Sheets | Power BI | Python | SQL | Machine Learning </sub>
-<br>[![](https://skillicons.dev/icons?i=microsoftoffice,sql,powerbi,googlesheets,python)]()
+</br>[![](https://skillicons.dev/icons?i=Analytics,sql,powerbi,googlesheets,python)]()
 
 Josiane é Analista de Dados Junior, tem conhecimento intermediário em Power BI, Execel, Python, Google Sheets, Microsoft, ERP. 
 Quer colocar em pratica os aprendizados na área de Analista de Dados.
