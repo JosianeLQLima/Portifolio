@@ -12,4 +12,4 @@ Está cursando Arquitetura de Dados na UNOPAR e faz cursos complementares de Ing
 
 **Projetos:**
 * Fundamentos de um Analista de Dados: 
-<br>[![](https://skillicons.dev/icons?i=html,css,sass,js,github,ps,python)]()
+<br>[![](https://skillicons.dev/icons?i=html, excel, sql, power bi, google sheets, erp, python)]()
